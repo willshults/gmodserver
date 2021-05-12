@@ -1,0 +1,8 @@
+"Assimilation"
+{
+	"base"		"base"
+	"title"		"assimilation"
+	"maps"		"^ttt_"
+	"menusystem"	"1"
+	"workshopid"	""
+}
